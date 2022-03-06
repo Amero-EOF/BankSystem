@@ -24,7 +24,7 @@ import javax.swing.event.ListSelectionListener;
 
 /**
 * Account list which is displayed on the left side.
-* @author Amero Defranco, 040935555
+* @author Amero Defranco
 * @version 3.0
 * @since 1.8.0_201
 */

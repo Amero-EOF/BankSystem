@@ -1,10 +1,8 @@
 /**
 * File Name: TextFileFilter.java
-* Author: Amero Defranco, 040935555
-* Course: CST8132 - 310
+* Author: Amero Defranco
 * Assignment: Lab 9
 * Date: April 18, 2019
-* Professor: Angela Giddings
 * Purpose: This class is solely meant to filter files to get text documents only.
 * Class List: AccountsInfoJPanel.java, AccountsListJPanel.java, Assign2.java, Bank.java, BankAccount.java, ChequingAccount.java, ChequingFrame.java, InvalidInputDialog.java, LoadingFrame.java, MainFrame.java, Menu.java, Person.java, SavingsAccount.java, SavingsFrame.java
 */
@@ -14,7 +12,7 @@ import javax.swing.filechooser.FileFilter;
 
 /**
  * This class is solely meant to filter files to get text documents, and directories only.
- * @author Amero Defranco, 040935555
+ * @author Amero Defranco
  * @version 3.0
  * @since 1.8.0_201
  */

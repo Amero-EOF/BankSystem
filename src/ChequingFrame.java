@@ -1,10 +1,8 @@
 /**
 * File Name: ChequingFrame.java
-* Author: Amero Defranco, 040935555
-* Course: CST8132 - 310
+* Author: Amero Defranco
 * Assignment: Lab 9
 * Date: April 18, 2019
-* Professor: Angela Giddings
 * Purpose: This class creates the chequing account in the UI.
 * Class List: AccountsInfoJPanel.java, AccountsListJPanel.java, Assign2.java, Bank.java, BankAccount.java, ChequingAccount.java, InvalidInputDialog.java, LoadingFrame.java, MainFrame.java, Menu.java, Person.java, SavingsAccount.java, SavingsFrame.java, TextFileFilter.java
 */
@@ -22,7 +20,7 @@ import javax.swing.JTextField;
 
 /**
  * This class creates the chequing account in the UI.
- * @author Amero Defranco, 040935555
+ * @author Amero Defranco
  * @version 3.0
  * @since 1.8.0_201
  */

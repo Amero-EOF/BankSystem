@@ -1,10 +1,8 @@
 /**
 * File Name: LoadingFrame.java
-* Author: Amero Defranco, 040935555
-* Course: CST8132 - 310
+* Author: Amero Defranco
 * Assignment: Lab 9
 * Date: April 18, 2019
-* Professor: Angela Giddings
 * Purpose: This class creates the loading frame that runs before the main application.
 * Class List: AccountsInfoJPanel.java, AccountsListJPanel.java, Assign2.java, Bank.java, BankAccount.java, ChequingAccount.java, ChequingFrame.java, InvalidInputDialog.java, MainFrame.java, Menu.java, Person.java, SavingsAccount.java, SavingsFrame.java, TextFileFilter.java
 */
@@ -24,7 +22,7 @@ import javax.swing.JProgressBar;
 
 /**
  * This class creates the loading frame that runs before the main application.
- * @author Amero Defranco, 040935555
+ * @author Amero Defranco
  * @version 3.0
  * @since 1.8.0_201
  */

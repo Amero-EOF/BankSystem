@@ -1,10 +1,8 @@
 /**
 * File Name: ChequingAccount.java
-* Author: Amero Defranco, 040935555
-* Course: CST8132 - 310
+* Author: Amero Defranco
 * Assignment: Lab 9
 * Date: April 18, 2019
-* Professor: Angela Giddings
 * Purpose: This class creates the chequing account which controls the fees of the bank account. It also handles bank account creation.
 * Class List: AccountsInfoJPanel.java, AccountsListJPanel.java, Assign2.java, Bank.java, BankAccount.java, ChequingFrame.java, InvalidInputDialog.java, LoadingFrame.java, MainFrame.java, Menu.java, Person.java, SavingsAccount.java, SavingsFrame.java, TextFileFilter.java
 */
@@ -13,7 +11,7 @@ import java.math.BigInteger;
 
 /**
  * This class creates the chequing account which controls the fees of the bank account. It also handles bank account creation.
- * @author Amero Defranco, 040935555
+ * @author Amero Defranco
  * @version 3.0
  * @since 1.8.0_201
  */

@@ -1,17 +1,15 @@
 /**
 * File Name: BankAccount.java
-* Author: Amero Defranco, 040935555
-* Course: CST8132 - 310
+* Author: Amero Defranco
 * Assignment: Lab 9
 * Date: April 18, 2019
-* Professor: Angela Giddings
 * Purpose: This class creates the general bank account which is extended by the chequing and savings account classes.
 * Class List: AccountsInfoJPanel.java, AccountsListJPanel.java, Assign2.java, Bank.java, ChequingAccount.java, ChequingFrame.java, InvalidInputDialog.java, LoadingFrame.java, MainFrame.java, Menu.java, Person.java, SavingsAccount.java, SavingsFrame.java, TextFileFilter.java
 */
 
 /**
  * This class creates the general bank account which is extended by the chequing and savings account classes.
- * @author Amero Defranco, 040935555
+ * @author Amero Defranco
  * @version 3.0
  * @since 1.8.0_201
  */
